@@ -1,0 +1,51 @@
+Questions:
+
+1. What is software engineering, and how does it differ from traditional programming? Software Development Life Cycle (SDLC):
+Software engineering is an art of science that deals with the design, development, testing and maintainance of software applications.
+Software engineering differs from traditional programming when it comes to reduced cost, customer satisfaction, improved quality, increased productivity, better maintainanblitiy and scalability.
+
+2. Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. 
+Phases of SDLC include:
+	a. Planning
+	b. Requirement analysis
+	c. Design
+	d. Coding
+	e. Testing
+	f. Deployment
+	e. Maintainace
+Agile vs. Waterfall Models:
+	Agile Model - This and iterative and incremental approach with emphasise to flexibility and collaboration
+	Waterfall Model - Each phase must be completed prior to moving onto the next phase. This is a linear and sequential approach.
+
+3. Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? Requirements Engineering:
+The key difference between Waterfall model and Agile model is that waterfall is a traditional model that is linear unlike Agile model which is more iterative and flexible.
+Waterfall has a fixed timeline thus not having the stakeholder involved along the way unlike Agile model, due to its flexibility it is easy to involve stakeholders.
+
+4. What is requirements engineering? Describe the process and its importance in the software development lifecycle. 
+This is the process of estabilishing requirements needed and also documenting the requirments.
+The process involves identifying, eliciting, analyzing, specifying, validating, and managing the needs and expectations of the client for the software system to be created.
+Software Design Principles:
+	a. Problem partitioning
+	b. Abstraction
+	c. Modularity
+	d.Top down & Bottom Up strategy 
+
+5. Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems? Testing in Software Engineering:
+Modularity is the concept of dividing a software into modules which are then worked on differently but are later merged together to bring back a complete functional software.
+Mintainability and scalability is improved sice it provides a framework that is more accessible to testing and allows the creation of lareg programs that can be accesesed by differet people.
+
+6. Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). 
+	a. unit testing - This invloves the testing of individual units by develpers to makes sure each unit is working as inteneded.
+	b. integration testing - This invloves the testing of how different units work together thus helping in identification of issues and resolving them.
+	c. system testing - This test involves the whole system to check on its performance and functionality.
+	d. acceptance testing - This inlvoles assertaining that the the developed product performs the desired task and it is done they the client
+Why is testing crucial in software development? Version Control Systems:
+Testing is cruical in that a system should be error free and it is conducted to be able to identify errors and resolving them before it is handed back to the client.
+
+7. What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features. Software Project Management:
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects? Software Maintenance:
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle? Ethical Considerations in Software Engineering:
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work? Submission Guidelines: Your answers should be well-structured, concise, and to the point. Provide real-world examples or case studies wherever possible. Cite any references or sources you use in your answers. Submit your completed assignment by [due date].
